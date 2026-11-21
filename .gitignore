@@ -1,0 +1,5 @@
+debug_audio/
+.venv/
+__pycache__/
+reply.wav
+.env
